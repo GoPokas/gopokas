@@ -9,9 +9,9 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gopokas&theme=dark&hide_border=true"/>
+  <img align="center" width="429px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gopokas&theme=dark&hide_border=true"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=gopokas&repo=PAP&theme=dark&hide_border=true"/>
+  <img align="center" width="371px" src="https://github-readme-stats.vercel.app/api/pin/?username=gopokas&repo=PAP&theme=dark&hide_border=true"/>
 </a>
