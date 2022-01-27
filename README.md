@@ -15,3 +15,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="371px" src="https://github-readme-stats.vercel.app/api/pin/?username=gopokas&repo=PAP&theme=dark&hide_border=true"/>
 </a>
+
+<a href="https://discord.com/users/247483052370952192">
+  <img align="center" width="429px" src="https://lanyard.cnrad.dev/api/247483052370952192?theme=dark&idleMessage=Probably doing something somewhere.&bg=151515&hideStatus=true&hideDiscrim=true"/>
+</a>
