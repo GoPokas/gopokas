@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="429px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gopokas&theme=dark&hide_border=true"/>
+  <img align="center" width="429px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gopokas&theme=dark&hide_border=true&v=2"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
