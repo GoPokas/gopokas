@@ -1,7 +1,7 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gopokas&theme=dark&show_icons=true&count_private=true&card_width=407"/>
+  <img align="left" width="407px" src="https://github-readme-stats.vercel.app/api?username=gopokas&theme=dark&show_icons=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
