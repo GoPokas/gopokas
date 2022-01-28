@@ -14,7 +14,7 @@
   <img align="center" width="429px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gopokas&theme=dark&hide_border=true&v=2&custom_title=Coding time last 7 days"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/gopokas/PAP">
   <img align="center" width="371px" src="https://github-readme-stats.vercel.app/api/pin/?username=gopokas&repo=PAP&theme=dark&hide_border=true"/>
 </a>
 
