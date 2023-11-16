@@ -10,10 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gopokas&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="429px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gopokas&theme=dark&hide_border=true&v=2&custom_title=Coding time last 7 days&langs_count=3&hide=markdown,other,git config"/>
-</a>
-
 ### Listening on Spotify 🎧
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=21dzjj6ng3pwxmsdvlzur7lsi&redirect=true">
   <img align="center" width="400px" src="https://spotify-github-profile.vercel.app/api/view?uid=21dzjj6ng3pwxmsdvlzur7lsi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
