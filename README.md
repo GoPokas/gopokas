@@ -14,16 +14,6 @@
   <img align="center" width="429px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gopokas&theme=dark&hide_border=true&v=2&custom_title=Coding time last 7 days&langs_count=3&hide=markdown,other,git config"/>
 </a>
 
-<a href="https://github.com/gopokas/PAP">
-  <img align="center" width="371px" src="https://github-readme-stats.vercel.app/api/pin/?username=gopokas&repo=PAP&theme=dark&hide_border=true"/>
-</a>
-
-
-### Discord Status
-<a href="https://discord.com/users/247483052370952192">
-  <img align="center" width="400px" src="https://lanyard.cnrad.dev/api/247483052370952192?theme=dark&idleMessage=Probably doing something somewhere.&bg=151515&hideStatus=true&hideDiscrim=true"/>
-</a>
-
 ### Listening on Spotify 🎧
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=21dzjj6ng3pwxmsdvlzur7lsi&redirect=true">
   <img align="center" width="400px" src="https://spotify-github-profile.vercel.app/api/view?uid=21dzjj6ng3pwxmsdvlzur7lsi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
